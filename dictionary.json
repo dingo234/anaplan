@@ -1,1 +1,1 @@
-{"name":"anaplan","display_name":"anaplan","owner":"dingo234","auth_method":"None","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"58a431b91a94de0011d20e69","base_endpoint":"1.3","data_element":"data"}
+{"name":"anaplan","display_name":"anaplan","owner":"dingo234","auth_method":"Basic","auth_options":{},"paging_method":"None","paging_options":{},"tables":[],"id":"58a431b91a94de0011d20e69","base_endpoint":"1.3","data_element":"data"}
